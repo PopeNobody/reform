@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.popenobody.reform.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.popenobody.reform.MyBundle
 
 class MyApplicationService {
 
